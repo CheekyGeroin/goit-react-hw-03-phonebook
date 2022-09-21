@@ -4,6 +4,7 @@ export const Form = styled.form`
   box-shadow: 2px 2px 2px 2px #979899;
   max-width: 300px;
   padding: 10px;
+  border-radius:10px;
 `;
 
 export const Label = styled.label`
